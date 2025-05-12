@@ -1,0 +1,1113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\displayorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\displayorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\displayorders.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\createorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\createorder.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\createorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\dtos\\orderreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:dtos\\orderreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orderdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orderdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\orders\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\agents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\agents\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odmrazor\\pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCC46518-ED30-4DD7-8E2A-5C9869B0CB67}|ODMRazor.csproj|solutionrelative:pages\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\DisplayOrders.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\DisplayOrders.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\DisplayOrders.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\DisplayOrders.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwDwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T05:35:31.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:39:13.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Models\\Models.cs",
+              "RelativeToolTip": "Models\\Models.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA4wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:42:15.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-09T03:49:55.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T03:32:22.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:51:02.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayOrders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\DisplayOrders.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\DisplayOrders.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\DisplayOrders.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\DisplayOrders.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:35:27.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:03:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrder.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\CreateOrder.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\CreateOrder.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\CreateOrder.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\CreateOrder.cshtml.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAwwOEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:37:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\CreateOrder.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\CreateOrder.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\CreateOrder.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\CreateOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T07:41:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderReportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\DTOs\\OrderReportDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderReportDTO.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\DTOs\\OrderReportDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderReportDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:37:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAD4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T03:27:25.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Agents\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:01:46.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:00:42.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:38:42.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:37:36.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:02:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:41:20.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBZwDQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:49:21.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:03:18.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:03:18.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAANYAAAAAAAAAAAAIwN4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:40:24.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:49:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:00:42.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Agents\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:01:46.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Index.cshtml",
+              "RelativeToolTip": "Pages\\OrderDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:04:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderDetails\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:04:37.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Agents\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:01:45.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Details.cshtml",
+              "RelativeToolTip": "Pages\\OrderDetails\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:04:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Agents\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:01:45.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderDetails\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:04:37.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\OrderDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:04:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderDetails\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:04:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderDetails\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:04:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\OrderDetails\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:04:37.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\OrderDetails\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:04:36.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\OrderDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\OrderDetails\\Create.cshtml",
+              "RelativeToolTip": "Pages\\OrderDetails\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:04:36.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:03:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:03:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:03:17.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:03:17.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:03:17.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:03:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Orders\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Orders\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Orders\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:03:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:02:40.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:02:40.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:02:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:02:39.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:02:39.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:02:39.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:02:39.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:02:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:02:39.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Agents\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:01:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Agents\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:01:46.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Agents\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:01:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Agents\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:01:46.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Agents\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:01:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Agents\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Agents\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Agents\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:01:45.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:00:41.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:00:41.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:00:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:00:41.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:00:41.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:00:41.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Items\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Items\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:00:41.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODMRazor\\Pages\\Items\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T04:00:41.37Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

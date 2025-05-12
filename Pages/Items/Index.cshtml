@@ -1,0 +1,48 @@
+﻿@page
+@model ODMRazor.Pages.Items.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item[0].ItemName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Item[0].Size)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Item[0].UnitPrice)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Item) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Size)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ItemID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ItemID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ItemID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

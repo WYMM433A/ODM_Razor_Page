@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ODMRazor
+build_property.RootNamespace = ODMRazor
+build_property.ProjectDir = C:\Users\Wai Yan Moe Myint\source\SE_GroupAssignment2\ODMRazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Wai Yan Moe Myint\source\SE_GroupAssignment2\ODMRazor
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Agents/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Agents/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Agents/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Agents/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Agents/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWdlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Items/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Items/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Items/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Items/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSXRlbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZU9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/DisplayOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERpc3BsYXlPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wai Yan Moe Myint/source/SE_GroupAssignment2/ODMRazor/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7sdxkzn97u

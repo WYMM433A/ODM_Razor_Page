@@ -1,0 +1,42 @@
+﻿@page
+@model ODMRazor.Pages.Orders.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Order[0].OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order[0].Agent)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Order) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Agent.AgentID)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.OrderID">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.OrderID">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.OrderID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

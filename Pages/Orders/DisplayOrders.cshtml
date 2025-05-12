@@ -1,0 +1,79 @@
+﻿@page
+@model ODMRazor.Pages.Orders.DisplayOrdersModel
+@{
+    ViewData["Title"] = "Display Orders";
+}
+
+<div class="container mt-4">
+    <h1>Display Orders</h1>
+
+    <!-- Filter Orders Section -->
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2>Filter Orders</h2>
+        </div>
+        <div class="card-body">
+            <form method="get" asp-page="/Orders/DisplayOrders">
+                <div class="form-group">
+                    <label for="AgentNameFilter" class="form-label">Filter by Agent Name:</label>
+                    <input asp-for="AgentNameFilter" class="form-control" placeholder="Enter agent name..." />
+                </div>
+                <button type="submit" class="btn btn-primary mt-2">Filter</button>
+                <a asp-page="/Orders/DisplayOrders" class="btn btn-secondary mt-2">Clear Filter</a>
+            </form>
+        </div>
+    </div>
+
+    <!-- Orders List Section -->
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2>Orders</h2>
+        </div>
+        <div class="card-body">
+            @if (Model.Orders.Any())
+            {
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Order Date</th>
+                            <th>Agent Name</th>
+                            <th>Items</th>
+                            <th>Total</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.Orders)
+                        {
+                            <tr>
+                                <td>@order.OrderDate.ToString("MM/dd/yyyy")</td>
+                                <td>@order.Agent.AgentName</td>
+                                <td>
+                                    <ul>
+                                        @foreach (var detail in order.OrderDetails)
+                                        {
+                                            <li>@detail.Item.ItemName (Qty: @detail.Quantity)</li>
+                                        }
+                                    </ul>
+                                </td>
+                                <td>
+                                    @{
+                                        var total = order.OrderDetails.Sum(od => od.Quantity * od.Item.UnitPrice);
+                                        @total.ToString("C")
+                                    }
+                                </td>
+                                <td>
+                                    <a asp-page="/Orders/CreateOrder" asp-route-orderId="@order.OrderID" class="btn btn-sm btn-primary">Edit</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p class="no-data">No orders found.</p>
+            }
+        </div>
+    </div>
+</div>

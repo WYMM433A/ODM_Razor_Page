@@ -1,0 +1,223 @@
+﻿@page
+@model ODMRazor.Pages.IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ODMRazor</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #6b48ff, #a770ef);
+            min-height: 100vh;
+            color: #333;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin-top: 20px;
+        }
+
+        h1 {
+            color: #fff;
+            text-align: center;
+            margin-bottom: 30px;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.95);
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+
+            .card:hover {
+                transform: translateY(-5px);
+            }
+
+        .card-header {
+            background: linear-gradient(90deg, #6b48ff, #a770ef);
+            color: #fff;
+            border-radius: 15px 15px 0 0;
+            padding: 15px;
+        }
+
+        .table {
+            background: #fff;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+            .table th {
+                background: #6b48ff;
+                color: #fff;
+            }
+
+            .table td, .table th {
+                padding: 12px;
+                vertical-align: middle;
+            }
+
+        .form-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .form-control {
+            border-radius: 10px;
+            border: 1px solid #ddd;
+        }
+
+        .form-label {
+            font-weight: 500;
+            color: #444;
+        }
+
+        .no-data {
+            color: #888;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1>Dashboard</h1>
+
+        <!-- Best Selling Items Section -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h2>Best Selling Items of This Month</h2>
+            </div>
+            <div class="card-body">
+                @if (Model.BestSellingItems.Any())
+                {
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Item Name</th>
+                                <th>Total Quantity Sold</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.BestSellingItems)
+                            {
+                                <tr>
+                                    <td>@item.ItemName</td>
+                                    <td>@item.TotalQuantity</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+                else
+                {
+                    <p class="no-data">No items sold this month.</p>
+                }
+            </div>
+        </div>
+
+        <!-- Items Purchased by Agent Section -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h2>Items Purchased by Agent</h2>
+            </div>
+            <div class="card-body">
+                <form method="get" asp-page="/Index">
+                    <div class="form-group">
+                        <label for="SelectedAgentId" class="form-label">Select Agent:</label>
+                        <select asp-for="SelectedAgentId" asp-items="Model.AgentList" class="form-control" onchange="this.form.submit()">
+                            <option value="">-- Select an Agent --</option>
+                        </select>
+                    </div>
+                </form>
+                @if (Model.SelectedAgentId.HasValue)
+                {
+                    if (Model.ItemsByAgent.Any())
+                    {
+                        <table class="table table-striped mt-3">
+                            <thead>
+                                <tr>
+                                    <th>Item Name</th>
+                                    <th>Quantity</th>
+                                    <th>Unit Price</th>
+                                    <th>Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model.ItemsByAgent)
+                                {
+                                    <tr>
+                                        <td>@item.ItemName</td>
+                                        <td>@item.Quantity</td>
+                                        <td>@item.UnitPrice.ToString("C")</td>
+                                        <td>@item.Total.ToString("C")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                    else
+                    {
+                        <p class="no-data">No items purchased by this agent.</p>
+                    }
+                }
+            </div>
+        </div>
+
+        <!-- Agents Who Purchased Specific Item Section -->
+        <div class="card mb-4">
+            <div class="card-header">
+                <h2>Agents Who Purchased a Specific Item</h2>
+            </div>
+            <div class="card-body">
+                <form method="get" asp-page="/Index">
+                    <div class="form-group">
+                        <label for="SelectedItemId" class="form-label">Select Item:</label>
+                        <select asp-for="SelectedItemId" asp-items="Model.ItemList" class="form-control" onchange="this.form.submit()">
+                            <option value="">-- Select an Item --</option>
+                        </select>
+                    </div>
+                </form>
+                @if (Model.SelectedItemId.HasValue)
+                {
+                    if (Model.AgentsByItem.Any())
+                    {
+                        <table class="table table-striped mt-3">
+                            <thead>
+                                <tr>
+                                    <th>Agent Name</th>
+                                    <th>Order Date</th>
+                                    <th>Total Quantity</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var agent in Model.AgentsByItem)
+                                {
+                                    <tr>
+                                        <td>@agent.AgentName</td>
+                                        <td>@agent.OrderDate.ToString("MM/dd/yyyy")</td>
+                                        <td>@agent.TotalQuantity</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    }
+                    else
+                    {
+                        <p class="no-data">No agents have purchased this item.</p>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

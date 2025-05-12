@@ -1,0 +1,100 @@
+﻿@page "{orderId?}"
+@model ODMRazor.Pages.Orders.CreateOrderModel
+@{
+    ViewData["Title"] = "Create or Edit Order";
+}
+
+<div class="container mt-4">
+    <h1>@(Model.OrderInput?.OrderID.HasValue == true ? "Edit Order" : "Create New Order")</h1>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <h2>Order Details</h2>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-page-handler="CreateOrUpdate">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="OrderInput.AgentID" class="form-label">Select Agent:</label>
+                    <select asp-for="OrderInput.AgentID" asp-items="Model.AgentList" class="form-control">
+                        <option value="">-- Select an Agent --</option>
+                    </select>
+                    <span asp-validation-for="OrderInput.AgentID" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label class="form-label">Order Details:</label>
+                    <div id="order-details">
+                        @for (int i = 0; i < Model.OrderInput.OrderDetails.Count; i++)
+                        {
+                            <div class="row mb-2 order-detail-row">
+                                <div class="col-md-5">
+                                    <select asp-for="OrderInput.OrderDetails[i].ItemID" asp-items="Model.ItemList" class="form-control">
+                                        <option value="">-- Select an Item --</option>
+                                    </select>
+                                    <span asp-validation-for="OrderInput.OrderDetails[i].ItemID" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-3">
+                                    <input asp-for="OrderInput.OrderDetails[i].Quantity" class="form-control" placeholder="Quantity" type="number" min="1" />
+                                    <span asp-validation-for="OrderInput.OrderDetails[i].Quantity" class="text-danger"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    @if (Model.OrderInput.OrderDetails[i].ID.HasValue)
+                                    {
+                                        <button type="submit" asp-page-handler="DeleteOrderDetail" asp-route-id="@Model.OrderInput.OrderDetails[i].ID" class="btn btn-danger">Remove</button>
+                                    }
+                                    else
+                                    {
+                                        <button type="button" class="btn btn-danger remove-row">Remove</button>
+                                    }
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <button type="button" id="add-row" class="btn btn-secondary mt-2">Add Item</button>
+                </div>
+
+                <button type="submit" class="btn btn-primary mt-3">Save Order</button>
+                @if (Model.OrderInput?.OrderID.HasValue == true)
+                {
+                    <button type="submit" asp-page-handler="DeleteOrder" asp-route-orderId="@Model.OrderInput.OrderID" class="btn btn-danger mt-3 ms-2">Delete Order</button>
+                }
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#add-row").click(function () {
+                var index = $("#order-details .order-detail-row").length;
+                var row = `
+                    <div class="row mb-2 order-detail-row">
+                        <div class="col-md-5">
+                            <select name="OrderInput.OrderDetails[${index}].ItemID" class="form-control" required>
+                                <option value="">-- Select an Item --</option>
+        @foreach (var item in Model.ItemList)
+        {
+                                        <option value="@item.Value">@item.Text</option>
+        }
+                            </select>
+                        </div>
+                        <div class="col-md-3">
+                            <input name="OrderInput.OrderDetails[${index}].Quantity" class="form-control" placeholder="Quantity" type="number" min="1" required />
+                        </div>
+                        <div class="col-md-2">
+                            <button type="button" class="btn btn-danger remove-row">Remove</button>
+                        </div>
+                    </div>`;
+                $("#order-details").append(row);
+            });
+
+            $(document).on("click", ".remove-row", function () {
+                $(this).closest(".order-detail-row").remove();
+            });
+        });
+    </script>
+}
